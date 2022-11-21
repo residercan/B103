@@ -1,0 +1,8 @@
+Gitgithub ilk gün
+git init ile bağlantı kuruyoruz
+git add . ile stating area'ya gönderiyoruz
+git status working space ve staging area bölümünde commitlemeyi bekleyen dosyaları gösteriyor
+git status ile stating area'ya gönderdiklerimizi kontrol ediyoruz
+git commit -m"V1" -m"bu kısıma versiyon ile ilgili mesaj ekliyoruz"
+git log --oneline oluşan versiyonumuzu bize gösteriyor
+git diff değişikliği görmek için commit bölümünden sonrası için
