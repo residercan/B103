@@ -2,7 +2,9 @@ Gitgithub ilk gün
 git init ile bağlantı kuruyoruz
 git add . ile stating area'ya gönderiyoruz
 git status ile stating area'ya gönderdiklerimizi kontrol ediyoruz
-git commit 
+git commit -m"V1" versiyon oluşturuyoruz
+git log --oneline ile versiyonu ve numarasını görüyoruz
+git diff ile commit yapıldıktan sonra hangi değişikliğin yapıldığını görüyoruz
 
 1. git init --> Local repo oluşturmak için yani git ile klasörümüzün içindeki dosyaları
 ilişkilendirmek için kullanılır
@@ -10,3 +12,6 @@ ilişkilendirmek için kullanılır
 (yani commitlemek için beklenen yer) gönderir
 - 3. git commit -m "mesaj" --> Staging area'dan commit stora dosyalarımı göndermek için kullanılır
 (Commit yani version yani sürüm oluşmuş olur
+
+
+git init / git add . / git commit -m "mesaj" / repository / git push
