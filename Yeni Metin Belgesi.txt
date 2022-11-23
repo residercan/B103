@@ -5,6 +5,10 @@ git status ile stating area'ya gönderdiklerimizi kontrol ediyoruz
 git commit -m"V1" versiyon oluşturuyoruz
 git log --oneline ile versiyonu ve numarasını görüyoruz
 git diff ile commit yapıldıktan sonra hangi değişikliğin yapıldığını görüyoruz
+git commit --amend -m"V2" versiyon ismini değiştirmek için kullanılır.
+git show devamına da head codeları yani git log --oneline yaptıktan sonra çıkan 7 rakamı kopyalayınca
+o versiyonda yapılan değişiklikleri gösteriyor.
+
 
 1. git init --> Local repo oluşturmak için yani git ile klasörümüzün içindeki dosyaları
 ilişkilendirmek için kullanılır
