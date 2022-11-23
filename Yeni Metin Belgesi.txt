@@ -19,3 +19,8 @@ ilişkilendirmek için kullanılır
 
 
 git init / git add . / git commit -m "mesaj" / repository / git push
+
+git branch -M main
+git remote add origin https://github.com/residercan/B103104105.git
+git push -u origin main
+
